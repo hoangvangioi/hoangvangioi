@@ -96,6 +96,5 @@
 <!-- https://github.com/shravan20/github-readme-quotes -->
 <div align="right">
 
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=blueberry&animation=grow_out_in&layout=default&font=default)
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=onedark&animation=grow_out_in&layout=default&font=default)
 </div>
-
