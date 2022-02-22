@@ -1,6 +1,6 @@
-<!-- Trungquandev -->
+<!-- Hoang Van Gioi -->
 <a href="#" target="_blank">
-  <img src="svg/trungquandev.svg" width="1200" alt="Click to see the source" />
+  <img src="svg/gioitube.svg" width="1200" alt="Click to see the source" />
 </a>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
@@ -46,7 +46,12 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/WordPress-282C34?logo=wordPress&logoColor=21759B" alt="WordPress logo" title="WordPress" height="25" /></span>
 &nbsp;
-
+<span><img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=3776AB" alt="Python logo" title="Python" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/C-282C34?logo=c&logoColor=A8B9CC" alt="C logo" title="C Program" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Django-282C34?logo=django&logoColor=092E20" alt="Django logo" title="Django" height="25" /></span>
+&nbsp;
 <br>
 
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
@@ -67,23 +72,20 @@
 <br>
 <!-- https://icons8.com -->
 <div align="center">
-  <a href="https://hoangvangioi.xyz" target="blank">
-    <img width="90" height="90" src="images/logo-gioitube-transparent-bg-192x192.png" alt="gioitube-blog" />
-  </a>
   <a href="https://facebook.com/gioitube" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="gioitube-facebook" />
+    <img src="https://img.icons8.com/nolan/96/facebook-new.png" alt="gioitube-facebook" />
   </a>
   <a href="https://www.youtube.com/c/gioitubeOfficial" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="gioitube-youtube" />
+    <img src="https://img.icons8.com/nolan/96/youtube-squared.png" alt="gioitube-youtube" />
   </a>
-  <a href="https://www.linkedin.com/in/gioitube" target="blank">
+  <!-- <a href="https://www.linkedin.com/in/gioitube" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="gioitube-linkedin" />
-  </a>
+  </a> -->
   <a href="https://instagram.com/gioitube" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="gioitube-instagram" />
+    <img src="https://img.icons8.com/nolan/96/instagram-new.png" alt="gioitube-instagram" />
   </a>
   <a href="mailto:gioitube2k2@gmail.com" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="gioitube-email" />
+    <img src="https://img.icons8.com/nolan/96/apple-mail.png" alt="gioitube-email" />
   </a>
 </div>
 
@@ -94,7 +96,6 @@
 <!-- https://github.com/shravan20/github-readme-quotes -->
 <div align="right">
 
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=onedark&animation=default&layout=default&font=default)
-
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=blueberry&animation=grow_out_in&layout=default&font=default)
 </div>
 
