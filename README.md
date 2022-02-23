@@ -7,8 +7,7 @@
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
 <!-- https://simpleicons.org/ -->
-<span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="28" /></span>
-&ensp;
+
 <span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="28" /></span>
 &ensp;
 <span><img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="28" /></span>
@@ -24,6 +23,8 @@
 <span><img src="https://img.shields.io/badge/C%20Program-282C34?logo=c&logoColor=A8B9CC" alt="C Program logo" title="C Program" height="28" /></span>
 &ensp;
 <span><img src="https://img.shields.io/badge/Django-282C34?logo=django&logoColor=092E20" alt="Django logo" title="Django" height="28" /></span>
+&ensp;
+<span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="28" /></span>
 &ensp;
 <br>
 
@@ -45,13 +46,13 @@
 <br>
 <!-- https://icons8.com -->
 <div align="center">
-  <a href="https://www.facebook.com/hoanggioi.2803" target="blank">
+  <a href="https://www.facebook.com/hoanggioi.2803" target="_blank">
     <img src="https://img.icons8.com/nolan/96/facebook-new.png" alt="facebook" />
   </a>
-  <a href="https://www.youtube.com/channel/UCVHLjBAHx6SBkX3qDJ0qRcg" target="blank">
+  <a href="https://www.youtube.com/channel/UCVHLjBAHx6SBkX3qDJ0qRcg" target="_blank">
     <img src="https://img.icons8.com/nolan/96/youtube-squared.png" alt="youtube" />
   </a>
-  <a href="https://www.instagram.com/gioihoang3082" target="blank">
+  <a href="https://www.instagram.com/gioihoang3082" target="_blank">
     <img src="https://img.icons8.com/nolan/96/instagram-new.png" alt="instagram" />
   </a>
   <a href="mailto:gioitube2k2@gmail.com" target="top">
