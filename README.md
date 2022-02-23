@@ -72,20 +72,17 @@
 <br>
 <!-- https://icons8.com -->
 <div align="center">
-  <a href="https://facebook.com/gioitube" target="blank">
-    <img src="https://img.icons8.com/nolan/96/facebook-new.png" alt="gioitube-facebook" />
+  <a href="https://www.facebook.com/hoanggioi.2803" target="blank">
+    <img src="https://img.icons8.com/nolan/96/facebook-new.png" alt="facebook" />
   </a>
-  <a href="https://www.youtube.com/c/gioitubeOfficial" target="blank">
-    <img src="https://img.icons8.com/nolan/96/youtube-squared.png" alt="gioitube-youtube" />
+  <a href="https://www.youtube.com/channel/UCVHLjBAHx6SBkX3qDJ0qRcg" target="blank">
+    <img src="https://img.icons8.com/nolan/96/youtube-squared.png" alt="youtube" />
   </a>
-  <!-- <a href="https://www.linkedin.com/in/gioitube" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="gioitube-linkedin" />
-  </a> -->
-  <a href="https://instagram.com/gioitube" target="blank">
-    <img src="https://img.icons8.com/nolan/96/instagram-new.png" alt="gioitube-instagram" />
+  <a href="https://www.instagram.com/gioihoang3082" target="blank">
+    <img src="https://img.icons8.com/nolan/96/instagram-new.png" alt="instagram" />
   </a>
   <a href="mailto:gioitube2k2@gmail.com" target="top">
-    <img src="https://img.icons8.com/nolan/96/apple-mail.png" alt="gioitube-email" />
+    <img src="https://img.icons8.com/nolan/96/apple-mail.png" alt="email" />
   </a>
 </div>
 
