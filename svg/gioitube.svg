@@ -196,11 +196,8 @@ input[type="checkbox"]:checked~div {
         </div> -->
 
 
-
-
-
-
-<ul>
+			</div>
+      <ul>
     <li>
         <input type="checkbox" />
         <div>H</div>
@@ -259,11 +256,6 @@ input[type="checkbox"]:checked~div {
     </li>
 
 </ul>
-
-
-
-			</div>
-      
 		</div>
 
 	</foreignObject>
