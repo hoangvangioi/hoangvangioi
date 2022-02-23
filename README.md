@@ -3,6 +3,65 @@
   <img src="svg/gioitube.svg" width="1200" alt="Click to see the source" />
 </a>
 
+<ul>
+    <li>
+        <input type="checkbox" />
+        <div>H</div>
+    </li>
+    <li>
+        <input type="checkbox" />
+        <div>O</div>
+    </li>
+    <li>
+        <input type="checkbox" />
+        <div>À</div>
+    </li>
+    <li>
+        <input type="checkbox" />
+        <div>N</div>
+    </li>
+    <li>
+        <input type="checkbox" />
+        <div>G</div>
+    </li>
+    <li>
+        <input type="checkbox" />
+        <div> </div>
+    </li>
+    <li>
+        <input type="checkbox" />
+        <div>V</div>
+    </li>
+    <li>
+        <input type="checkbox" />
+        <div>Ă</div>
+    </li>
+    <li>
+        <input type="checkbox" />
+        <div>N</div>
+    </li>
+    <li>
+        <input type="checkbox" />
+        <div> </div>
+    </li>
+    <li>
+        <input type="checkbox" />
+        <div>G</div>
+    </li>
+    <li>
+        <input type="checkbox" />
+        <div>I</div>
+    </li>
+    <li>
+        <input type="checkbox" />
+        <div>Ỏ</div>
+    </li>
+    <li>
+        <input type="checkbox" />
+        <div>I</div>
+    </li>
+
+</ul>
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
 <!-- https://simpleicons.org/ -->
