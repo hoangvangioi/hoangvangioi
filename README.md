@@ -21,7 +21,7 @@
 &ensp;
 <span><img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=3776AB" alt="Python logo" title="Python" height="28" /></span>
 &ensp;
-<span><img src="https://img.shields.io/badge/C%20Program-282C34?logo=c&logoColor=A8B9CC" alt="C logo" title="C Program" height="28" /></span>
+<span><img src="https://img.shields.io/badge/C%20Program-282C34?logo=c&logoColor=A8B9CC" alt="C Program logo" title="C Program" height="28" /></span>
 &ensp;
 <span><img src="https://img.shields.io/badge/Django-282C34?logo=django&logoColor=092E20" alt="Django logo" title="Django" height="28" /></span>
 &ensp;
