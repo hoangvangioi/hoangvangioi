@@ -33,10 +33,10 @@
 <br>
 <div align=center>
   <a href="#" title="Hoàng Văn Giỏi">
-    <img width="360" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gioitube&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+	<img width="360" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gioitube&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </a>
   <a href="#" title="Hoàng Văn Giỏi">
-    <img align="right" width="432" src="https://github-readme-stats.vercel.app/api?username=gioitube&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+	<img align="right" width="432" src="https://github-readme-stats.vercel.app/api?username=gioitube&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
 </div>
 
@@ -47,25 +47,25 @@
 <!-- https://icons8.com -->
 <div align="center">
   <a href="https://www.facebook.com/hoanggioi.2803" target="_blank">
-    <img src="https://img.icons8.com/nolan/96/facebook-new.png" alt="facebook" />
+	<img src="https://img.icons8.com/nolan/96/facebook-new.png" alt="facebook" />
   </a>
   <a href="https://www.youtube.com/channel/UCVHLjBAHx6SBkX3qDJ0qRcg" target="_blank">
-    <img src="https://img.icons8.com/nolan/96/youtube-squared.png" alt="youtube" />
+	<img src="https://img.icons8.com/nolan/96/youtube-squared.png" alt="youtube" />
   </a>
   <a href="https://www.instagram.com/gioihoang3082" target="_blank">
-    <img src="https://img.icons8.com/nolan/96/instagram-new.png" alt="instagram" />
+	<img src="https://img.icons8.com/nolan/96/instagram-new.png" alt="instagram" />
   </a>
   <a href="mailto:gioitube2k2@gmail.com" target="top">
-    <img src="https://img.icons8.com/nolan/96/apple-mail.png" alt="email" />
+	<img src="https://img.icons8.com/nolan/96/apple-mail.png" alt="email" />
   </a>
 </div>
 
 <br>
 
 
-
-![](https://komarev.com/ghpvc/?username=gioitube&color=ff69b4&label=PROFILE+VIEWS&style=flat-square)
-
+<div align="center">
+  ![](https://komarev.com/ghpvc/?username=gioitube&color=ff69b4&label=PROFILE+VIEWS&style=flat-square)
+</div>
 
 
 
