@@ -95,7 +95,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gioitube" alt="gioitube" /></a> </p>
 
-- 📝 I regularly write articles on [https://www.hoangvangioi.xyz](www.hoangvangioi.xyz)
+- 📝 I regularly write articles on [www.hoangvangioi.xyz](https://www.hoangvangioi.xyz)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
