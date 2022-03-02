@@ -62,6 +62,16 @@
 
 <br>
 
+
+
+![](https://komarev.com/ghpvc/?username=gioitube&color=ff69b4&label=PROFILE+VIEWS&style=flat-square)
+
+
+
+
+
+<br>
+
 <h2 align="center">📑 Random Quotes 📑</h2>
 <br>
 <!-- https://github.com/shravan20/github-readme-quotes -->
