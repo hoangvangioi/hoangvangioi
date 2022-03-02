@@ -69,9 +69,11 @@
 
 </div>
 
+<div align="center">
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gioitube&theme=vue)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gioitube&theme=dracula)
 
+</div>
 
 <br>
 
