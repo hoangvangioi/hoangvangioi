@@ -63,7 +63,7 @@
 <br>
 
 
-<div align="right">
+<div align="center">
 
 ![Quote](https://komarev.com/ghpvc/?username=gioitube&color=ff69b4&label=PROFILE+VIEWS&style=flat-square)
 
