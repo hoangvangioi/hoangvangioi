@@ -7,29 +7,6 @@
   <img src="svg/gioitube.svg" width="1200" alt="Click to see the source" />
 </a>
 
-- 🔭 I’m currently working on [a](a)
-
-- 🌱 I’m currently learning **a**
-
-- 👯 I’m looking to collaborate on [a](a)
-
-- 🤝 I’m looking for help with [a](a)
-
-- 👨‍💻 All of my projects are available at [a](a)
-
-- 📝 I regularly write articles on [a](a)
-
-- 💬 Ask me about **a**
-
-- 📫 How to reach me **a**
-
-- 📄 Know about my experiences [a](a)
-
-- ⚡ Fun fact **a**
-
-
-
-
 
 <table align="center">
     <tr>
@@ -67,13 +44,13 @@
             <br />
             <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=gioitube&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
             <br />
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F722C4&background=FFCBCB00&multiline=true&width=450&height=200&lines=The+five+boxing+wizards+jump+quickly%3D;How+vexingly+quick+daft+zebras+jump;Quick+fox+jumps+nightly+above+wizard;Sphinx+of+black+quartz%2C+judge+my+vow;Waltz%2C+bad+nymph%2C+for+quick+jigs+vex;Glib+jocks+quiz+nymph+to+vex+dwarf)](https://git.io/typing-svg)
+
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gioitube&theme=dracula)
         </th>
     </tr>
 </table>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F722C4&background=FFCBCB00&multiline=true&width=450&height=200&lines=The+five+boxing+wizards+jump+quickly%3D;How+vexingly+quick+daft+zebras+jump;Quick+fox+jumps+nightly+above+wizard;Sphinx+of+black+quartz%2C+judge+my+vow;Waltz%2C+bad+nymph%2C+for+quick+jigs+vex;Glib+jocks+quiz+nymph+to+vex+dwarf)](https://git.io/typing-svg)
-
-
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gioitube&theme=dracula)
