@@ -59,4 +59,7 @@
     </tr>
 </table>
 
+
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gioitube&theme=dracula" alt="GitHub Streak" />
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gioitube&theme=dracula)
