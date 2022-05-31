@@ -1,5 +1,4 @@
 <!-- Hoang Van Gioi -->
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=10000&color=DA2CF7&center=true&width=1000&height=150&lines=Hello+👋+!+I'm+Ho%C3%A0ng+V%C4%83n+Gi%E1%BB%8Fi.;I%E2%80%99m+20+years+old.;I%E2%80%99m+from+Viet+Nam.;I%E2%80%99m+a+junior+at+Posts+and+Telecommunications+Institute+of+Technology.;My+major+is+Electrical+and+Electronic+Engineering+Technology.)](https://git.io/typing-svg)
 
 <table align="center">
@@ -58,8 +57,3 @@
         </th>
     </tr>
 </table>
-
-
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gioitube&theme=dracula" alt="GitHub Streak" />
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gioitube&theme=dracula)
