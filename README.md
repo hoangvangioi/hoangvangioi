@@ -27,8 +27,7 @@
 			<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 			<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
             <a href="https://code.visualstudio.com" target="_blank"><img alt="Visual Studio Code" title="Visual Studio Code" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" /></a> 
-			</p>
-			<br /><br />
+			</p><br />
             <h3 align="center">🔥 GitHub Stats 🔥</h3>
             <br />
 			<a title="Visit my Github repositories" href="https://github.com/hoangvangioi?tab=repositories" target="_blank"><img height="150px" src="https://github-readme-stats.vercel.app/api?username=hoangvangioi&show_icons=true&include_all_commits=true&theme=midnight-purple&custom_title=Github%20Stats&hide_border=true" alt="Github Stats" /></a><a title="Visit my Github repositories" href="https://github.com/hoangvangioi?tab=repositories" target="_blank"><img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangvangioi&layout=compact&theme=midnight-purple&langs_count=10&hide=js&hide_border=true" /></a>
