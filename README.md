@@ -1,8 +1,10 @@
 <!-- Hoang Van Gioi -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=8000&color=DA2CF7&center=true&width=1000&height=150&lines=Hello+👋+!+I'm+Ho%C3%A0ng+V%C4%83n+Gi%E1%BB%8Fi.;I%E2%80%99m+20+years+old.;I%E2%80%99m+from+Viet+Nam.;I%E2%80%99m+a+junior+at+Posts+and+Telecommunications+Institute+of+Technology.;My+major+is+Electrical+and+Electronic+Engineering+Technology.)](https://git.io/typing-svg)
 
-<div style="text-align: center;">
+<div>
+	<p align="center"> 
 	<a title="Visit my Github repositories" href="https://github.com/hoangvangioi?tab=repositories" target="_blank"><img src="https://github-profile-trophy.vercel.app/?username=hoangvangioi&theme=darkhub&no-frame=true&row=1&column=6" height="110px" /></a>
+	</p>
 	<br>
 	<h3 align="center">Connect with me:</h3>
 	<br>
@@ -26,12 +28,16 @@
 	<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 	<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 	<a href="https://code.visualstudio.com" target="_blank"><img alt="Visual Studio Code" title="Visual Studio Code" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" /></a> 
-	</p><br />
+	</p>
 	<h3 align="center">🔥 GitHub Stats 🔥</h3>
 	<br />
+	<p align="center">
 	<a title="Visit my Github repositories" href="https://github.com/hoangvangioi?tab=repositories" target="_blank"><img height="150px" src="https://github-readme-stats.vercel.app/api?username=hoangvangioi&show_icons=true&include_all_commits=true&theme=midnight-purple&custom_title=Github%20Stats&hide_border=true" alt="Github Stats" /></a><a title="Visit my Github repositories" href="https://github.com/hoangvangioi?tab=repositories" target="_blank"><img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangvangioi&layout=compact&theme=midnight-purple&langs_count=10&hide=js&hide_border=true" /></a>
+	</p>
 	<br />
-	<img style="display: block; margin: 0 auto" src="https://github-readme-streak-stats.herokuapp.com?user=hoangvangioi&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+	<p align="center">
+  		<img src="https://github-readme-streak-stats.herokuapp.com?user=hoangvangioi&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+	</p>
 	<br />
 	<br />
 </div>
