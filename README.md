@@ -57,11 +57,11 @@
 <h3 align="center">🔥 GitHub Stats 🔥</h3>
 <br />
 <p align="center">
-	<a title="Visit my Github repositories" href="https://github.com/hoangvangioi?tab=repositories" target="_blank"><img height="150px" src="https://github-readme-stats.vercel.app/api?username=hoangvangioi&show_icons=true&include_all_commits=true&theme=midnight-purple&custom_title=Github%20Stats&hide_border=true" alt="Github Stats" /></a><a title="Visit my Github repositories" href="https://github.com/hoangvangioi?tab=repositories" target="_blank"><img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangvangioi&layout=compact&theme=midnight-purple&langs_count=10&hide=js&hide_border=true" /></a>
+<a title="Visit my Github repositories" href="https://github.com/hoangvangioi?tab=repositories" target="_blank"><img height="150px" src="https://github-readme-stats.vercel.app/api?username=hoangvangioi&show_icons=true&include_all_commits=true&theme=midnight-purple&custom_title=Github%20Stats&hide_border=true" alt="Github Stats" /></a><a title="Visit my Github repositories" href="https://github.com/hoangvangioi?tab=repositories" target="_blank"><img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangvangioi&layout=compact&theme=midnight-purple&langs_count=10&hide=js&hide_border=true" /></a>
 </p>
 <br />
 <p align="center">
-	<img src="https://github-readme-streak-stats.herokuapp.com?user=hoangvangioi&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=hoangvangioi&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
 <br/>
 <h3 align="center">📈 User Statistics 📈</h3>
