@@ -1,8 +1,10 @@
 <!-- Hoang Van Gioi -->
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=8000&color=DA2CF7&center=true&width=1000&height=150&lines=Hello+👋+!+I'm+Ho%C3%A0ng+V%C4%83n+Gi%E1%BB%8Fi.;I%E2%80%99m+20+years+old.;I%E2%80%99m+from+Viet+Nam.;I%E2%80%99m+a+junior+at+Posts+and+Telecommunications+Institute+of+Technology.;My+major+is+Electrical+and+Electronic+Engineering+Technology.)](https://git.io/typing-svg)
 ![Hoang Van Gioi](./animated.svg)
+
 <p align="center"> 
-<a title="Visit my Github repositories" href="https://github.com/hoangvangioi?tab=repositories" target="_blank"><img src="https://github-profile-trophy.vercel.app/?username=hoangvangioi&theme=darkhub&no-frame=true&row=1&column=6" height="110px" /></a>
+	<a title="Visit my Github repositories" href="https://github.com/hoangvangioi?tab=repositories" target="_blank"><img src="https://github-profile-trophy.vercel.app/?username=hoangvangioi&theme=darkhub&no-frame=true&row=1&column=6" height="110px" /></a>
 </p>
 <br>
 <h3 align="center">Connect with me:</h3>
@@ -55,7 +57,7 @@
 <h3 align="center">🔥 GitHub Stats 🔥</h3>
 <br />
 <p align="center">
-<a title="Visit my Github repositories" href="https://github.com/hoangvangioi?tab=repositories" target="_blank"><img height="150px" src="https://github-readme-stats.vercel.app/api?username=hoangvangioi&show_icons=true&include_all_commits=true&theme=midnight-purple&custom_title=Github%20Stats&hide_border=true" alt="Github Stats" /></a><a title="Visit my Github repositories" href="https://github.com/hoangvangioi?tab=repositories" target="_blank"><img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangvangioi&layout=compact&theme=midnight-purple&langs_count=10&hide=js&hide_border=true" /></a>
+	<a title="Visit my Github repositories" href="https://github.com/hoangvangioi?tab=repositories" target="_blank"><img height="150px" src="https://github-readme-stats.vercel.app/api?username=hoangvangioi&show_icons=true&include_all_commits=true&theme=midnight-purple&custom_title=Github%20Stats&hide_border=true" alt="Github Stats" /></a><a title="Visit my Github repositories" href="https://github.com/hoangvangioi?tab=repositories" target="_blank"><img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangvangioi&layout=compact&theme=midnight-purple&langs_count=10&hide=js&hide_border=true" /></a>
 </p>
 <br />
 <p align="center">
@@ -79,7 +81,7 @@
   </tbody>
 </table>
 
-<table>
+<table align="center">
   <tbody>
     <tr>
       <th>
@@ -109,5 +111,3 @@
     </tr>
   </tbody>
 </table>
-
-</p>
