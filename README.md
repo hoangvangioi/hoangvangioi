@@ -13,8 +13,8 @@
 <a href="https://www.facebook.com/hoanggioi.2803/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hoangvangioi" height="40" width="80" /></a>
 <a href="https://www.instagram.com/gioihoang3082/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hoangvangioi" height="40" width="80" /></a>
 <a href="https://www.youtube.com/channel/UCVHLjBAHx6SBkX3qDJ0qRcg" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hoangvangioi" height="40" width="80" /></a>
-<a href="https://github.com/hoangvangioi" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="hoangvangioi" height="40" width="80" /></a>
-<a href="https://hoangvangioi.com" target="_blank"><img align="center" src="https://hoangvangioi.com/favicon.ico" alt="hoangvangioi" height="40" width="80" /></a>
+<a href="https://github.com/hoangvangioi" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="hoangvangioi" height="40" width="80" /></a>&emsp;
+<a href="https://hoangvangioi.com" target="_blank"><img align="center" src="https://hoangvangioi.com/favicon.ico" alt="hoangvangioi" height="40" width="40" /></a>
 </p>
 <br />
 <h3 align="center">🛠 Technologies and Tools 🛠</h3>
